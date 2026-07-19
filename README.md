@@ -51,16 +51,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 <div align="center">
+
+> A few projects I'm proud of — check out my [repositories](#) for more.
 
 | 📌 Project | 📝 Description | 🛠️ Tech Used |
 |:---|:---|:---|
 | **[Loan Credit Score Prediction](#)** | Predictive model to assess loan credit risk using statistical and ML techniques | `Python` `Pandas` `Scikit-learn` |
 | **[Netflix Data Analysis](#)** | Exploratory data analysis uncovering trends and patterns in Netflix content | `Python` `Pandas` `Matplotlib` `Seaborn` |
-| **[Finance Tracker](#)** | Application for tracking and analyzing personal financial data | `Python` `SQL` |
-| **[Banking System](#)** | A structured system simulating core banking operations and data handling | `Python` `SQL` |
 
 </div>
 
