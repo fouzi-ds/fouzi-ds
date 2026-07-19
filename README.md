@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fouzi&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=fouzi-ds&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -72,16 +72,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fouzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouzi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fouzi-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouzi-ds&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fouzi&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fouzi-ds&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fouzi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fouzi-ds&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-> 💡 Replace `fouzi` in the URLs above with your actual GitHub username to activate these widgets.
 
 ---
 
