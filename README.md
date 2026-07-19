@@ -55,7 +55,7 @@
 
 <div align="center">
 
-> A few projects I'm proud of — check out my [repositories](#) for more.
+> A few projects I'm proud of — check out my [repositories](https://github.com/fouzi-ds?tab=repositories) for more.
 
 | 📌 Project | 📝 Description | 🛠️ Tech Used |
 |:---|:---|:---|
@@ -87,9 +87,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kalem-fouzi-88394b306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/fouzi-ds"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:prof.fouzikalem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
